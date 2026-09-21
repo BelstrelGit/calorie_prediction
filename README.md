@@ -37,3 +37,5 @@
 │   └── utils.py
 └── models/
 ```
+
+Линк на сохраненную модель https://disk.yandex.ru/d/nJehlaA171m3Bg
